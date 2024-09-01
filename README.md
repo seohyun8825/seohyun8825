@@ -12,7 +12,7 @@ I'm a senior at Korea University, majoring in both **International Studies** and
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=seohyun8825&theme=react-dark" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=seohyun8825&theme=react-dark" />
 </p>
 
 ---
