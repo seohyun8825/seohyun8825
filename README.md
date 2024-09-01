@@ -1,14 +1,3 @@
-<a href="https://www.korea.ac.kr" target="_blank">
-    <img src="https://img.shields.io/badge/Korea%20University-BC0000?style=for-the-badge" alt="Korea University" style="width: 250px; height: 54px;" />
-</a>
-&nbsp;
-<a href="https://github.com/seohyun8825?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/seohyun8825/your-repository?style=flat-square">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/seohyun8825/your-repository?style=flat-square">
-</a>
-
----
-
 # 👋 Hello, I'm Seohyun Lee!
 
 I'm a senior at Korea University, majoring in both **International Studies** and **Computer Science**. My primary focus is on **Computer Vision**, with a particular interest in **Diffusion Models** and **Vision-Language Models (VLM)**.
