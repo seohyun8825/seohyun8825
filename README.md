@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Seohyun Lee!
 
-I'm a senior at Korea University, majoring in both **International Studies** and **Computer Science**. My primary focus is on **Computer Vision**, with a particular interest in **Diffusion Models** and **Vision-Language Models (VLM)**.
+I'm undergraduate student at Korea University, majoring in both **International Studies** and **Computer Science**. My primary focus is on **Computer Vision**, with a particular interest in **Diffusion Models** and **Vision-Language Models (VLM)**.
 
 ---
 
