@@ -69,6 +69,6 @@ I'm undergraduate student at Korea University, majoring in both **International 
 ---
 
 - **Tistory**: This is where I share my studies on deep learning and vision-related papers.
-- **SoundCloud**: When I'm not coding, I'm dropping songs! 🎵 Check out my musical experiments [here](https://soundcloud.com/seohyun1ee).
+- **SoundCloud**: When I'm not coding, I'm dropping songs! [right here](https://soundcloud.com/seohyun1ee)! 🎧
 
 ---
