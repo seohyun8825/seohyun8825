@@ -35,7 +35,7 @@ I'm a senior at Korea University, majoring in both **International Studies** and
 # 📚 I was
 
 - **Member of 하나와영** (June 2020 – June 2021)
-- **Member of 쿠빅 (AI & Data Science Club)** (December 2023 – Present)
+- **Member of KUBIG (AI & Data Science Club)** (December 2023 – Present)
 
 ---
 
