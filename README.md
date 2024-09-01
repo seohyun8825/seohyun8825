@@ -47,7 +47,7 @@ I'm undergraduate student at Korea University, majoring in both **International 
 
 # 📄 Publications
 
-- My paper **"ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions"** was accepted at **CKAIA 2024**
+- Our paper **"ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions"** was accepted at **CKAIA 2024**
 
 ---
 
