@@ -21,7 +21,7 @@ I'm undergraduate student at Korea University, majoring in both **International 
 
 - **Member of 하나와영** (June 2020 – June 2021)
 - **Member of KUBIG (AI & Data Science Club)** (December 2023 – Present)
-- **Undergraduate Intern of MLVLAB, under the supervision of Professor Hyunwoo J. Kim** (2024.07 - Present)
+- **Undergraduate Intern of MLVLAB** under the supervision of Professor Hyunwoo J. Kim (2024.07 - Present)
 
 ---
 
