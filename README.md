@@ -38,8 +38,6 @@ I'm undergraduate student at Korea University, majoring in both **International 
 - Our paper **"ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions"** was accepted at **CKAIA 2024**
 
 ---
-
-# 💬 
 <a href="https://happy8825.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
 </a>
