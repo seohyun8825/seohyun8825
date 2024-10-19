@@ -40,14 +40,10 @@ I'm undergraduate student at Korea University, majoring in both **International 
 ---
 
 # 💬 
-
-<a href="https://github.com/seohyun8825" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 <a href="https://happy8825.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
 </a>
-<a href="mailto:smart8825@naver.com" target="_blank">
+<a href="mailto:happy8825@korea.ac.kr" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://soundcloud.com/seohyun1ee" target="_blank">
