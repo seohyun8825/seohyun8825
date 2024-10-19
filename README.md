@@ -27,8 +27,9 @@ I'm undergraduate student at Korea University, majoring in both **International 
 
 # 🏆 Awards
 
-- **[First Place Winner]** at AI Boot Camp & Competition, College of Data Science, Seoul National University
-- **[First Place]** KU AI Forum Poster Presentation 2024
+- **[First Place Winner]** at AI Boot Camp & Competition 2024, College of Data Science, Seoul National University
+- **[First Place Winner]** at KU AI Forum Poster Presentation 2024
+- **[First Place Winner]** at LLM Innovators Challenge 2024
 
 ---
 
