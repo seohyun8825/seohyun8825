@@ -27,9 +27,9 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 
 # 🏆 Awards
 
-- **[First Place Winner]** at AI Boot Camp & Competition 2024, College of Data Science, Seoul National University
+- **[First Place Winner]** at Ambient AI Competition 2024, Seoul National University
 - **[First Place Winner]** at KU AI Forum Poster Presentation 2024
-- **[First Place Winner]** at LLM Innovators Challenge 2024
+- **[First Place Winner]** at LLM Innovators Challenge 2024 (KU X Upstage)
 
 ---
 
