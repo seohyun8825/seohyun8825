@@ -35,7 +35,7 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 
 # 📄 Publications
 
-- Our paper **"ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions"** was accepted at **CKAIA 2024**
+- ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions(VISAPP 2025)**(Oral Presentation)**
 
 ---
 <a href="https://happy8825.tistory.com" target="_blank">
