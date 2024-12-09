@@ -41,16 +41,12 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 <a href="https://happy8825.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
 </a>
-<a href="mailto:happy8825@korea.ac.kr" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 <a href="https://soundcloud.com/seohyun1ee" target="_blank">
     <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
 </a>
 
 ---
-
 - **Tistory**: This is where I share my studies on deep learning and vision-related papers.
 - **SoundCloud**: When I'm not coding, I'm dropping songs! [right here](https://soundcloud.com/seohyun1ee)! 🎧
-
 ---
+![Leetcode Stats](https://leetcard.jacoblin.cool/SeohyunLee)
