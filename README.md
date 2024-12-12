@@ -49,4 +49,3 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 - **Tistory**: This is where I share my studies on deep learning and vision-related papers.
 - **SoundCloud**: When I'm not coding, I'm dropping songs! [right here](https://soundcloud.com/seohyun1ee)! 🎧
 ---
-![Leetcode Stats](https://leetcard.jacoblin.cool/seohyunlee)
