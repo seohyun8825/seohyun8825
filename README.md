@@ -16,22 +16,21 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 </p>
 
 ---
-
 # 📚 I was
-
-- **Member of 하나와영** (June 2020 – June 2021)
+- **Member of KUBS, Video PD ** (2020.03 - 2021.03)
+- **Member of 하나와영, Software Club** (June 2020 – June 2021)
 - **Member of KUBIG (AI & Data Science Club)** (2023.12 – 2024.12)
 - **Undergraduate Intern of MLVLAB** under the supervision of Professor Hyunwoo J. Kim (2024.07 - 2024.12)
 - **LG AI Research - Intern of Vision Lab** (2025.01 - ) 
-
 ---
-
 # 🏆 Awards
-
 - **[First Place Winner]** at Ambient AI Competition 2024, Seoul National University
 - **[First Place Winner]** at KU AI Forum Poster Presentation 2024
 - **[First Place Winner]** at LLM Innovators Challenge 2024 (KU X Upstage)
-
+- **[특별상]** at Look At Me K-Pop & Hip-Hop Contest 2022
+- **[특별상]** at the Mock IMO Assembly 2020
+- **[공로상]** at Blossom 청소년 영상제
+- **[최우수상]** at Math Talk 2017, 교육부장관상 수상
 ---
 
 # 📄 Publications
