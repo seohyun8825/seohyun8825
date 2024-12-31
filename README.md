@@ -24,9 +24,9 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 - **LG AI Research - Intern of Vision Lab** (2025.01 - ) 
 ---
 # 🏆 Awards
+- **[First Place Winner]** at LLM Innovators Challenge 2024 (KU X Upstage)
 - **[First Place Winner]** at Ambient AI Competition 2024, Seoul National University
 - **[First Place Winner]** at KU AI Forum Poster Presentation 2024
-- **[First Place Winner]** at LLM Innovators Challenge 2024 (KU X Upstage)
 - **[특별상]** at Look At Me K-Pop & Hip-Hop Contest 2022
 - **[특별상]** at the Mock IMO Assembly 2020
 - **[공로상]** at Blossom 청소년 영상제 2020
