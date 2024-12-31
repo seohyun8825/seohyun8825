@@ -20,8 +20,9 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 # 📚 I was
 
 - **Member of 하나와영** (June 2020 – June 2021)
-- **Member of KUBIG (AI & Data Science Club)** (December 2023 – Present)
-- **Undergraduate Intern of MLVLAB** under the supervision of Professor Hyunwoo J. Kim (2024.07 - Present)
+- **Member of KUBIG (AI & Data Science Club)** (2023.12 – 2024.12)
+- **Undergraduate Intern of MLVLAB** under the supervision of Professor Hyunwoo J. Kim (2024.07 - 2024.12)
+- **LG AI Research Intern of Vision Lab** (2025.01 - ) 
 
 ---
 
