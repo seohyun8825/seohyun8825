@@ -29,8 +29,8 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 - **[First Place Winner]** at LLM Innovators Challenge 2024 (KU X Upstage)
 - **[특별상]** at Look At Me K-Pop & Hip-Hop Contest 2022
 - **[특별상]** at the Mock IMO Assembly 2020
-- **[공로상]** at Blossom 청소년 영상제
-- **[최우수상]** at Math Talk 2017, 교육부장관상 수상
+- **[공로상]** at Blossom 청소년 영상제 2020
+- **[최우수상]** at Math Talk, 교육부장관상 수상 2017
 ---
 
 # 📄 Publications
