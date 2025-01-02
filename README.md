@@ -16,12 +16,13 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 </p>
 
 ---
-# 📚 I was
-- **Member of KUBS (Korea University Broadcasting Station), Video PD** (2020.03 - 2021.03)
-- **Member of 하나와영, Software Club** (June 2020 – June 2021)
-- **Member of KUBIG (AI & Data Science Club)** (2023.12 – 2024.12)
+# 📚 I am
+- **LG AI Research - Intern of Vision Lab** (2025.01 - )
 - **Undergraduate Intern of MLVLAB** under the supervision of Professor Hyunwoo J. Kim (2024.07 - 2024.12)
-- **LG AI Research - Intern of Vision Lab** (2025.01 - ) 
+- **Member of KUBIG (AI & Data Science Club)** (2023.12 – 2024.12)
+- **Music Producer of Terra** (2021.06 - 2023.06)
+- **Member of 하나와영, Software Club** (2020.06 – 2021.06)
+- **Member of KUBS (Korea University Broadcasting Station), Video PD** (2020.03 - 2021.03)
 ---
 # 🏆 Awards
 - **[First Place Winner]** at LLM Innovators Challenge 2024 (KU X Upstage)
