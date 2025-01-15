@@ -32,7 +32,9 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 
 # 📄 Publications
 
-- ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions(VISAPP 2025)**(Oral Presentation)**
+- **ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions** (VISAPP 2025) **(Oral Presentation)**  
+  [Preprint](https://arxiv.org/pdf/2501.06769)  
+  *Seohyun Lee, Jintae Park, and Sanghyeok Park*
 
 ---
 <a href="https://happy8825.tistory.com" target="_blank">
