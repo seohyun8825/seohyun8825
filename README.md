@@ -14,7 +14,6 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
-
 ---
 # 📚 I am
 - **LG AI Research - Intern of Vision Lab** (2025.01 - )
@@ -27,17 +26,8 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 - **[First Place Winner]** at Ambient AI Competition 2024, Seoul National University
 - **[First Place Winner]** at KU AI Forum Poster Presentation 2024
 ---
-
 # 📄 Publications
-
 - **ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions** (VISAPP 2025) **(Oral Presentation)** [Paper](https://www.scitepress.org/publishedPapers/2025/131506/pdf/index.html)  
   *Seohyun Lee, Jintae Park, and Sanghyeok Park*
+---
 
----
-<a href="https://happy8825.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
-</a>
-
----
-- **Tistory**: This is where I share my studies on deep learning and vision-related papers.
----
