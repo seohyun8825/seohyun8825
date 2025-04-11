@@ -20,9 +20,7 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 - **LG AI Research - Intern of Vision Lab** (2025.01 - )
 - **Undergraduate Intern of MLVLAB** under the supervision of Professor Hyunwoo J. Kim (2024.07 - 2024.12)
 - **Member of KUBIG (AI & Data Science Club)** (2023.12 – 2024.12)
-- **Music Producer of Terra** (2021.06 - 2023.06)
 - **Member of 하나와영, Software Club** (2020.06 – 2021.06)
-- **Member of KUBS (Korea University Broadcasting Station), Video PD** (2020.03 - 2021.03)
 ---
 # 🏆 Awards
 - **[First Place Winner]** at LLM Innovators Challenge 2024 (KU X Upstage)
@@ -32,18 +30,14 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 
 # 📄 Publications
 
-- **ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions** (VISAPP 2025) **(Oral Presentation)** [Preprint](https://arxiv.org/pdf/2501.06769)  
+- **ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions** (VISAPP 2025) **(Oral Presentation)** [Paper](https://www.scitepress.org/publishedPapers/2025/131506/pdf/index.html)  
   *Seohyun Lee, Jintae Park, and Sanghyeok Park*
 
 ---
 <a href="https://happy8825.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
 </a>
-<a href="https://soundcloud.com/seohyun1ee" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
-</a>
 
 ---
 - **Tistory**: This is where I share my studies on deep learning and vision-related papers.
-- **SoundCloud**: When I'm not coding, I'm dropping songs! [right here](https://soundcloud.com/seohyun1ee)! 🎧
 ---
