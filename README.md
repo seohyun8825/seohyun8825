@@ -21,7 +21,7 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 - **ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions** (VISAPP 2025) **(Oral Presentation)** [Paper](https://www.scitepress.org/publishedPapers/2025/131506/pdf/index.html)
 
   Seohyun Lee*, Jintae Park*, and Sanghyeok Park* (* Equal Contribution)
-- **DR.SIMON: Domain-wise Rewrite for Segment-Informed Medical Oversight Network** (MICCAI 2025 3rd International Workshop on Foundation Models for General Medical AI (MedAGI)) **(Oral Presentation)**
+- **DR.SIMON: Domain-wise Rewrite for Segment-Informed Medical Oversight Network** (MedAGI Workshop @ MICCAI 2025) **(Oral Presentation)**
 
   Seohyun Lee, Suhyun Choe, Jaeha Choi, Jin Won Lee
 ---
