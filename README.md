@@ -20,18 +20,15 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 # 📄 Publications
 
 - Seohyun Lee, Jintae Park, Sanghyeok Park (2025).  
-  **_ODPG: Outfitting Diffusion with Pose-Guided Conditions_**  
-  *VISAPP 2025* — **Oral Presentation**  
-  [[Paper](https://www.scitepress.org/publishedPapers/2025/131506/pdf/index.html)]
+  **[_ODPG: Outfitting Diffusion with Pose-Guided Conditions_](https://www.scitepress.org/publishedPapers/2025/131506/pdf/index.html)**  
+  *VISAPP 2025* — **Oral Presentation**
 
 - Seohyun Lee, Suhyun Choe, Jaeha Choi, Jin Won Lee (2025).  
   **_DR.SIMON: Domain-wise Rewrite for Segment-Informed Medical Oversight Network_**  
   *MedAGI Workshop @ MICCAI 2025* — **Oral Presentation**
 
 - LG AI Research (2025).  
-  **_Exaone 4.0 VL: Vision-Language Foundation Model for Enterprise AI Agent_**  
-  *LG AI Talk Concert 2025*  
-  [[Video](https://www.youtube.com/watch?v=EGzIMo4AizA&t=1323s)]
-
+  **[_Exaone 4.0 VL: Vision-Language Foundation Model for Enterprise AI Agent_](https://www.youtube.com/watch?v=EGzIMo4AizA&t=1323s)**  
+  *LG AI Talk Concert 2025*
 ---
 
