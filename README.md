@@ -12,7 +12,7 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 
 ---
 # 🏆 Awards
-- **[First Place Winner]** at LLM Innovators Challenge 2024 (KU X Upstage)
+- **[First Place Winner]** at LLM Innovators Challenge 2024 (KU X Upstage), 1st (KRW 10M Prize) Out of 56 Teams
 - **[First Place Winner]** at Ambient AI Competition 2024, Seoul National University
 - **[First Place Winner]** at KU AI Forum Poster Presentation 2024
 ---
