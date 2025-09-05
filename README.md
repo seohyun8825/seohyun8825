@@ -19,7 +19,7 @@ I'm undergraduate student at Korea University. My primary focus is on **Computer
 
 # 📄 Publications
 
-- **DR.SIMON: Domain-wise Rewrite for Segment-Informed Medical Oversight Network** [Project Page](https://drsimon-rewrite.github.io/) 
+- **DR.SIMON: Domain-wise Rewrite for Segment-Informed Medical Oversight Network** [Project Page](https://drsimon-rewrite.github.io/)<br>
   Seohyun Lee, Suhyun Choe, Jaeha Choi, Jin Won Lee (2025). *MedAGI Workshop @ MICCAI 2025* **(Oral Presentation)**
 
 - **Exaone 4.0 VL: Vision-Language Foundation Model for Enterprise AI Agent** [Video](https://www.youtube.com/watch?v=EGzIMo4AizA&t=1323s)  
